@@ -84,6 +84,7 @@
                         <format>xml</format>
                     </formats>
                 </configuration>
+                <!-- Support for JDK 1.8 -->
                 <dependencies>
                     <dependency>
                         <groupId>org.ow2.asm</groupId>
